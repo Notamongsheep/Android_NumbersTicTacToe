@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Numbers Tic Tac Toe</string>
+
+
+    <!-- Buttons -->
+        <!-- Main Menu -->
+        <string name="new_game">New Game</string>
+        <string name="quit">Quit</string>
+
+        <!-- Winner or End Game Dialog -->
+        <string name="play_again">Play Again</string>
+        <string name="main_menu">Main Menu</string>
+
+        <!-- Nav Menu Dialog -->
+        <string name="no">No</string>
+        <string name="ok">Ok</string>
+        <string name="yes">Yes</string>
+
+    <!-- TextViews -->
+        <!-- TwoPlayerGame - Game Screen -->
+        <string name="player_1">PLAYER 1</string>
+        <string name="player_2">PLAYER 2</string>
+
+        <!-- Winner or End Game Modal Text -->
+        <string name="game_over">Game Over</string>
+        <string name="end_info">Don\'t believe it? Hit \'X\' to see the win!</string>
+        <string name="no_winner">How about another round?</string>
+
+        <!-- 'Home' Icon Button Modal Text -->
+        <string name="exit">Exit to Main Menu</string>
+        <string name="exit_content">Would you really like to exit?</string>
+
+        <!-- 'Reset' Icon Button Modal Text -->
+        <string name="reset_game">Reset Game</string>
+        <string name="reset_game_content">Would you really like to reset the game?</string>
+
+        <!-- 'Info' Icon Button Modal Text -->
+        <string name="how_to_play">How to Play</string>
+        <string name="how_to_play_content">Take turns playing a tile. The goal is to get three tiles in a row horizontally, diagonally, or vertically that total 15. Tile colors do not determine a win.</string>
+
+    <!-- Placeholders -->
+    <string name="ph_content">Content</string>
+    <string name="ph_title">Title</string>
+    <string name="ph_btn_left">Left Button</string>
+    <string name="ph_btn_right">Right Button</string>
+</resources>
